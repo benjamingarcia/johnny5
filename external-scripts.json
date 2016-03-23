@@ -12,5 +12,8 @@
   "hubot-spotify-search",
   "hubot-codinglove",
   "hubot-movie",
-  "hubot-trello"
+  "hubot-trello",
+  "hubot-answers",
+  "hubot-speak",
+  "hubot-cron"
 ]
