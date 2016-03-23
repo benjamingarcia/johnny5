@@ -10,6 +10,7 @@
     "hubot-codinglove": "^0.2.6",
     "hubot-cron": "^0.2.9",
     "hubot-diagnostics": "0.0.1",
+    "hubot-giphy-gifme": "^0.1.8",
     "hubot-google-images": "^0.2.6",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.3",

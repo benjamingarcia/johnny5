@@ -15,5 +15,6 @@
   "hubot-trello",
   "hubot-answers",
   "hubot-speak",
-  "hubot-cron"
+  "hubot-cron",
+  "hubot-giphy-gifme"
 ]
