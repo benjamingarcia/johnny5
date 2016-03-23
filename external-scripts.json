@@ -10,5 +10,6 @@
   "hubot-rules",
   "hubot-shipit",
   "hubot-spotify-search",
-  "hubot-codinglove"
+  "hubot-codinglove",
+  "hubot-movie"
 ]
